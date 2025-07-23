@@ -1,2 +1,2 @@
 # ROS2-VisionPi
-This repository is based on Raspberry pi
+Is a ROS2-based intelligent vision robot designed to run on Raspberry Pi platforms.
